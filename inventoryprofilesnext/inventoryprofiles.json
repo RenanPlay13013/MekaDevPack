@@ -1,0 +1,21 @@
+{
+    "ModSettings": {
+        "always_move_all": true,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": "KP_1"
+            }
+        }
+    }
+}

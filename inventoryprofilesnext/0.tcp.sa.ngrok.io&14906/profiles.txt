@@ -1,0 +1,38 @@
+
+
+
+
+profile Saved activate HOT4
+	HOT1
+		"minecraft:wooden_axe"
+	HOT3
+		"minecraft:white_concrete"
+
+profile Saved activate HOT9
+	HOT9
+		"minecraft:wooden_axe"
+
+profile Saved activate HOT7
+	HOT4
+		"irons_spellbooks:pyromancer_spawn_egg"
+	HOT5
+		"minecraft:mud_bricks"
+	HOT9
+		"minecraft:wooden_axe"
+
+profile Saved activate HOT5
+	HOT1
+		"ad_astra:launch_pad"
+	HOT2
+		"ad_astra:tier_1_rocket"
+	HOT3
+		"ad_astra:tier_1_rocket"
+	HOT4
+		"ad_astra:tier_1_rocket"
+
+profile Saved activate HOT8
+	HOT7
+		"pneumaticcraft:pressure_chamber_glass"
+	HOT9
+		"minecraft:black_concrete"
+
