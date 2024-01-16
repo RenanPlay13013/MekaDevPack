@@ -1,0 +1,11 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:ingots/mithril": "null",
+  "forge:dusts/niter": "thermal:niter_dust",
+  "forge:ingots/chrome": "gtceu:chromium_ingot",
+  "forge:silicon": "ae2:silicon",
+  "forge:dusts/saltpeter": "gtceu:saltpeter_dust",
+  "forge:ingots/titanium": "gtceu:titanium_ingot",
+  "forge:rubber": "gtceu:sticky_resin",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot"
+}
