@@ -1,12 +1,12 @@
-[13:14:32] [INIT] KubeJS 2001.6.4-build.120; MC 2001 forge
-[13:14:32] [INIT] Loaded plugins:
-[13:14:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[13:14:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[13:14:32] [INIT] - com.almostreliable.morejs.Plugin
-[13:14:32] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[13:14:32] [INIT] - com.probejs.ProbeJSPlugin
-[13:14:32] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[13:14:32] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[13:14:33] [INFO] Loaded script startup_scripts:RemovingMekaOre.js in 0.065 s
-[13:14:33] [INFO] Loaded 1/1 KubeJS startup scripts in 1.253 s with 0 errors and 0 warnings
-[13:14:59] [INFO] RemovingMekaOre.js#2: Removed potion brewing recipe: apotheosis:levitation + {"item":"minecraft:popped_chorus_fruit"} -> apotheosis:flying
+[14:26:36] [INIT] KubeJS 2001.6.4-build.120; MC 2001 forge
+[14:26:36] [INIT] Loaded plugins:
+[14:26:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:26:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:26:36] [INIT] - com.almostreliable.morejs.Plugin
+[14:26:36] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[14:26:36] [INIT] - com.probejs.ProbeJSPlugin
+[14:26:36] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[14:26:36] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[14:26:38] [INFO] Loaded script startup_scripts:RemovingMekaOre.js in 0.076 s
+[14:26:38] [INFO] Loaded 1/1 KubeJS startup scripts in 1.084 s with 0 errors and 0 warnings
+[14:27:02] [INFO] RemovingMekaOre.js#2: Removed potion brewing recipe: apotheosis:levitation + {"item":"minecraft:popped_chorus_fruit"} -> apotheosis:flying

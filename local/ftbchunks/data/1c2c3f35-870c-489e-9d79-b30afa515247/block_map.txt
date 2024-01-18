@@ -1,8 +1,10 @@
 #942E52 minecraft:acacia_leaves
+#FBEB73 minecraft:allium
 #597A42 alltheores:aluminum_ore
 #FA75A8 minecraft:andesite
 #F84007 minecraft:andesite_stairs
 #6CFFC2 gtceu:apatite_indicator
+#308F55 gtceu:apatite_ore
 #E2C317 gtceu:asbestos_ore
 #ADF429 supplementaries:ash
 #0F359D minecraft:azure_bluet
@@ -48,6 +50,7 @@
 #60995E gtceu:diamond_indicator
 #4D2B74 rftoolsbase:dimensionalshard_overworld
 #BED665 minecraft:diorite
+#4C6D08 gtceu:diorite_apatite_ore
 #3A77E1 gtceu:diorite_coal_ore
 #7001BD gtceu:diorite_red_garnet_ore
 #164C80 gtceu:diorite_rock_salt_ore
@@ -57,6 +60,7 @@
 #380250 gtceu:galena_indicator
 #0C3C48 gtceu:garnet_sand_indicator
 #01285B gtceu:garnet_sand_ore
+#1827B7 gtceu:garnierite_ore
 #5A75B0 minecraft:glow_lichen
 #080513 gtceu:goethite_indicator
 #BA86FD gtceu:gold_ore
@@ -147,6 +151,7 @@
 #64F88A minecraft:spruce_slab
 #D9135A minecraft:spruce_stairs
 #B1D22B minecraft:spruce_trapdoor
+#A92CC8 minecraft:spruce_wall_sign
 #DC3458 minecraft:stone
 #B21185 minecraft:stone_brick_slab
 #43D995 minecraft:stone_brick_stairs
