@@ -264,17 +264,6 @@
         "value": 10
       }
     },
-    "eidolon:chanting_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "cold_sweat:cold_dampening": {
       "enabled": false,
       "min": {
@@ -284,6 +273,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "eidolon:chanting_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:cast_time_reduction": {
@@ -429,7 +429,7 @@
         "value": 1000000
       }
     },
-    "eidolon:magic_power": {
+    "irons_spellbooks:fire_magic_resist": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -440,7 +440,7 @@
         "value": 10
       }
     },
-    "irons_spellbooks:fire_magic_resist": {
+    "eidolon:magic_power": {
       "enabled": false,
       "min": {
         "default": 0,
