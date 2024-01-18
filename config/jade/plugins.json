@@ -1,4 +1,7 @@
 {
+  "enderchests": {
+    "hud": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -50,6 +53,12 @@
     "potion_effects": true,
     "painting": true,
     "chiseled_bookshelf": true
+  },
+  "endertanks": {
+    "hud.basic": true,
+    "hud": true,
+    "hud.status": true,
+    "hud.contents": true
   },
   "pneumaticcraft": {
     "pneumatic": true,
@@ -115,8 +124,19 @@
     "energy": true,
     "tooltip_renderer": true
   },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
   "mysticalagradditions": {
     "infused_farmland": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "supplementaries": {
+    "hat_stand": true
   },
   "waystones": {
     "waystone": true

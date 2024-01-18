@@ -86,6 +86,11 @@
   "apotheosis:spawner": null,
   "apotheosis:ench": null,
   "apotheosis:adventure": null,
+  "shetiphiancore:hud": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null,
+  "supplementaries:hat_stand": null,
+  "endertanks:hud": null,
   "mcjtylib:jadeaddons": null,
   "lootr:info": null,
   "lootr:inventory": null,
@@ -166,5 +171,7 @@
   "mekanism:tooltip_renderer": null,
   "mekanism:remove_builtin": null,
   "expatternprovider:tile_data": null,
-  "expatternprovider:jade_wireless": null
+  "expatternprovider:jade_wireless": null,
+  "pipez:pipe": null,
+  "enderchests:hud": null
 }
