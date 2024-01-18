@@ -175,7 +175,8 @@
       "0.tcp.sa.ngrok.io": "https://api.mcsrvstat.us/icon/0.tcp.sa.ngrok.io",
       "default": "https://via.placeholder.com/256.png",
       "RenanPlay13013": "https://mc-heads.net/avatar/a2aeb0775a0d40f495a1d133e3ad06a3",
-      "jogar.mekaminers.net": "https://api.mcsrvstat.us/icon/jogar.mekaminers.net"
+      "jogar.mekaminers.net": "https://api.mcsrvstat.us/icon/jogar.mekaminers.net",
+      "144.22.250.59": "https://api.mcsrvstat.us/icon/144.22.250.59"
     },
     "dynamicVariables": {
       "default": "Example Text",
