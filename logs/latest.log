@@ -1725,3 +1725,9 @@ java.io.FileNotFoundException: irons_spellbooks:models/item/affinity_ring_eldrit
 [21:18:14] [Render thread/INFO]: Applying gamepad mappings from internal database
 [21:18:14] [Render thread/INFO]: Successfully updated 480 gamepad mappings
 [21:18:16] [Render thread/WARN]: Game took 105.382 seconds to start
+[21:29:25] [Render thread/INFO]: Applying gamepad mappings from internal database
+[21:29:25] [Render thread/INFO]: Successfully updated 1 gamepad mappings
+[21:29:25] [Render thread/INFO]: Stopping!
+[21:29:25] [Render thread/INFO]: Released client Flux Networks cache
+[21:29:25] [Render thread/INFO]: Shutting down map thread
+[21:29:25] [CraftPresence/INFO]: Shutting down CraftPresence...
